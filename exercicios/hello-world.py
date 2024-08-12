@@ -1,1 +1,1 @@
-#Digite print('Olá, mundo!')
+print('Fugi, fugi, fugi e acabei aqui')
